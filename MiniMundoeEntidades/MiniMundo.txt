@@ -2,7 +2,7 @@
 
 Disciplina: Desenvolvimento de Sistemas Corporativos
 Profº: Petrônio Cândido
-Acadêmicos: João Pedro Viana, Thiago Santos Lima
+Acadêmicos: João Pedro Viana
 
 -------------------- MiniMundo --------------------
 	O Sistema será voltado para os laboratórios do IFNMG - Campus Januária e deverá melhorar o modo 
