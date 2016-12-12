@@ -1,0 +1,20 @@
+-------------------- SISTEMA DE AGENDAMENTO DE LABORATÓRIOS DO IFNMG - CAMPUS JANUÁRIA --------------------
+
+Disciplina: Desenvolvimento de Sistemas Corporativos
+Profº: Petrônio Cândido
+Acadêmicos: João Pedro Viana, Thiago Santos Lima
+
+-------------------- MiniMundo --------------------
+	O Sistema será voltado para os laboratórios do IFNMG - Campus Januária e deverá melhorar o modo 
+como são tratados os agendamentos, abrangendo todos os laboratórios do campus. 	O Sistema realizará agendamentos 
+de 1 hora por laboratório, os usuários poderam solicitar mais de 1 hora no mesmo laboratório se o mesmo 
+estiver disponivel. Os agendamentos seram feitos com base na disponibilidade do laboratório, hora e data 
+de entrada e saída, limite de alunos por laboratório e tipo. Os laborátórios seram divididos por tipo, 
+prédio e lotação máxima. As agendas deveram ser feitas por três perfis. Professores, servidores e usuários externos.
+	As solicitações poderam entrar numa lista de espera, caso haja desistência por parte de um solicitante 
+anterior. As desistências deveram ser informadas anteriormente, com no máximo três dias de antecedência, para que 
+os usuários da lista de espera sejam informados da disponibilidade do laboratório. 
+	
+	 
+
+	 

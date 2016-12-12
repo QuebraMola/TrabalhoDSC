@@ -1,0 +1,11 @@
+---------------------------Entidades----------------------------
+Servidor
+Professor
+UsuarioExterno
+Laboratorios
+HorariosDisponiveis
+ListadeEspera
+HorariosMarcados
+Agendamentos
+Desistências
+Prédios
